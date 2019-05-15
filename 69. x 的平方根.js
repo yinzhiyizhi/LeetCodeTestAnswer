@@ -40,5 +40,6 @@ var mySqrt = function(x) {
 
 
 //牛顿迭代服运算原理
+//https://blog.csdn.net/chenrenxiang/article/details/78286599
 //https://img-blog.csdn.net/20171019164040871?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvY2hlbnJlbnhpYW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center
 
